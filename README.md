@@ -1,13 +1,100 @@
-<h1 align="center">Hi 👋, I'm Hugo</h1>
-<h3 align="center">A third-year computer engineering student and Data Analyst Apprentice.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=groshoogo&label=Profile%20views&color=0e75b6&style=flat" alt="groshoogo" /> </p>
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+```
+  ██╗  ██╗██╗   ██╗ ██████╗  ██████╗
+  ██║  ██║██║   ██║██╔════╝ ██╔═══██╗
+  ███████║██║   ██║██║  ███╗██║   ██║
+  ██╔══██║██║   ██║██║   ██║██║   ██║
+  ██║  ██║╚██████╔╝╚██████╔╝╚██████╔╝
+  ╚═╝  ╚═╝ ╚═════╝  ╚═════╝  ╚═════╝
+```
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<br/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=groshoogo&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="groshoogo" /></p>
+**`Computer Engineering Student`** &nbsp;·&nbsp; **`Data Analyst Apprentice @ Sanofi`** &nbsp;·&nbsp; **`France`**
+
+<br/>
+
+---
+
+<br/>
+
+</div>
+
+### about
+
+Third-year computer engineering student, currently apprenticing as a Data Analyst at **Sanofi**. I build things for the web — from museum APIs to Minecraft bots. I care about clean code, clear architecture, and tools that actually work.
+
+<br/>
+
+---
+
+### stack
+
+<div align="center">
+<br/>
+
+**languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=3776AB)
+![HTML](https://img.shields.io/badge/HTML-000?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS-000?style=flat-square&logo=css3&logoColor=1572B6)
+![SQL](https://img.shields.io/badge/SQL-000?style=flat-square&logo=mysql&logoColor=4479A1)
+
+<br/>
+
+**frameworks & tools**
+
+![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react&logoColor=61DAFB)
+![NestJS](https://img.shields.io/badge/NestJS-000?style=flat-square&logo=nestjs&logoColor=E0234E)
+![Laravel](https://img.shields.io/badge/Laravel-000?style=flat-square&logo=laravel&logoColor=FF2D20)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=flat-square&logo=node.js&logoColor=339933)
+![Tailwind](https://img.shields.io/badge/Tailwind-000?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+
+<br/>
+
+**cloud & data**
+
+![AWS](https://img.shields.io/badge/AWS-000?style=flat-square&logo=amazon-aws&logoColor=FF9900)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=flat-square&logo=mongodb&logoColor=47A248)
+![Oracle](https://img.shields.io/badge/Oracle-000?style=flat-square&logo=oracle&logoColor=F80000)
+![Figma](https://img.shields.io/badge/Figma-000?style=flat-square&logo=figma&logoColor=F24E1E)
+![Selenium](https://img.shields.io/badge/Selenium-000?style=flat-square&logo=selenium&logoColor=43B02A)
+
+<br/>
+</div>
+
+---
+
+### stats
+
+<div align="center">
+<br/>
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GrosHoogo&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888&langs_count=6)
+
+<br/>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GrosHoogo&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888&icon_color=ffffff&hide=stars&count_private=true)
+
+<br/>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=GrosHoogo&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=ffffff10&ring=ffffff&fire=ffffff&currStreakLabel=888888&sideLabels=888888&currStreakNum=ffffff&sideNums=ffffff&dates=444444)
+
+<br/>
+</div>
+
+---
+
+<div align="center">
+
+<br/>
+
+*building quietly.*
+
+<br/>
+
+</div>
