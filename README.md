@@ -1,13 +1,15 @@
 <div align="center">
 
 <br/>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a2e&height=120&section=header&text=Hugo&fontSize=60&fontColor=ffffff&fontAlignY=65&animation=fadeIn&desc=Data%20Analyst%20·%20AI%20Specialization%20·%20Engineer&descSize=13&descAlignY=85&descColor=888888" width="100%"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=52&duration=4000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=700&height=80&lines=Hugo.)](https://git.io/typing-svg)
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=14&duration=2500&pause=800&color=888888&center=true&vCenter=true&multiline=false&width=500&lines=Python+%7C+SQL+%7C+SparkSQL+%7C+Power+BI;Data+Analysis+%7C+Machine+Learning+%7C+React;Fourth+year+%40+Sanofi+—+building+quietly.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=13&duration=2200&pause=900&color=666666&center=true&vCenter=true&width=500&lines=Data+Analyst+·+AI+Specialization+·+Engineer;Python+·+SQL+·+SparkSQL+·+Power+BI;Fourth+year+·+Sanofi+·+France)](https://git.io/typing-svg)
 
+<br/>
 <br/>
 
 ---
@@ -76,4 +78,10 @@ I explore data, build internal tools, and ship things that replace legacy system
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:000000&height=80&section=footer" width="100%"/>
+<div align="center">
+<br/>
+
+*building quietly.*
+
+<br/>
+</div>
