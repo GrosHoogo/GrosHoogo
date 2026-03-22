@@ -5,9 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=52&duration=4000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=700&height=80&lines=Hugo.)](https://git.io/typing-svg)
 
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=13&duration=2200&pause=900&color=666666&center=true&vCenter=true&width=500&lines=Data+Analyst+·+AI+Specialization+·+Engineer;Python+·+SQL+·+SparkSQL+·+Power+BI;Fourth+year+·+Sanofi+·+France)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=17&duration=2200&pause=900&color=666666&center=true&vCenter=true&width=500&height=30&lines=Data+Analyst+·+AI+Specialization+·+Engineer;Python+·+SQL+·+SparkSQL+·+Power+BI;Fourth+year+·+Sanofi+·+France)](https://git.io/typing-svg)
 
 <br/>
 <br/>
