@@ -2,11 +2,11 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Hugo;Computer+Engineering+Student;Data+Analyst+%40+Sanofi;AI+Specialization)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a2e&height=120&section=header&text=Hugo&fontSize=60&fontColor=ffffff&fontAlignY=65&animation=fadeIn&desc=Data%20Analyst%20·%20AI%20Specialization%20·%20Engineer&descSize=13&descAlignY=85&descColor=888888" width="100%"/>
 
 <br/>
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=GrosHoogo&style=flat-square&color=ffffff&label=profile+views&labelColor=000000)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=14&duration=2500&pause=800&color=888888&center=true&vCenter=true&multiline=false&width=500&lines=Python+%7C+SQL+%7C+SparkSQL+%7C+Power+BI;Data+Analysis+%7C+Machine+Learning+%7C+React;Fourth+year+%40+Sanofi+—+building+quietly.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -76,12 +76,4 @@ I explore data, build internal tools, and ship things that replace legacy system
 
 ---
 
-<div align="center">
-
-<br/>
-
-*building quietly.*
-
-<br/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:000000&height=80&section=footer" width="100%"/>
